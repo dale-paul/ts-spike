@@ -1,0 +1,23 @@
+{
+    "name": "ts-spike",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "dependencies": {
+        "gulp": "^3.9.1",
+        "gulp-typescript": "^3.1.6",
+        "gulp-sourcemaps": "^2.4.1",
+        "tsify": "^3.0.1",
+        "gulp-uglify": "^2.1.2",
+        "vinyl-buffer": "^1.0.0",
+        "vinyl-source-stream": "^1.1.0",
+        "browserify": "^14.1.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
